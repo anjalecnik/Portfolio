@@ -1,0 +1,51 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="styles.css"/>
+<title>AnjaPhotography</title>
+
+<nav id="navbar">
+  <ul>
+    <li>
+      <a href="#welcome-section">
+        About
+      </a>
+    </li>
+    <li>
+      <a href="#projects">
+        Projects
+      </a>
+    </li>
+    <li>
+      <a href="#profile">
+        Profile
+      </a>
+    </li>
+  </ul>
+</nav>
+
+<section id="welcome-section">
+  <br><br><br>
+  <h1>Hello, I'm Anja Lečnik, a freetime photographer</h1>
+</section>
+
+<section id="projects">
+  <p>These are some of the projects that I have worked on in the recent years.</p>
+  <a href="https://ibb.co/MffF4sY" class="project-tile" id="1"><img src="https://i.ibb.co/f99j52h/DSC-5728.jpg" alt="DSC-5728" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
+  <a href="https://ibb.co/pjKL5WH" class="project-tile" id="2"><img src="https://i.ibb.co/TM0gdKQ/2020-10-6-24.jpg" alt="2020-10-6-24" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
+  <a href="https://ibb.co/2s3KBHY" class="project-tile"><img src="https://i.ibb.co/cChTdVX/DSC02926-De-Noise-AI-low-light.jpg" alt="DSC02926-De-Noise-AI-low-light" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
+  <a href="https://ibb.co/7CFYpJy" class="project-tile"><img src="https://i.ibb.co/c3dg8cT/2021-5-30-49.jpg" alt="2021-5-30-49" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
+  <a href="https://ibb.co/J7ccGRy"><img src="https://i.ibb.co/gTrrfMP/2020-10-5-9.jpg" alt="2020-10-5-9" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
+  <a href="https://ibb.co/k3D18z9"><img src="https://i.ibb.co/s51Hwc6/2020-10-18-17.jpg" alt="2020-10-18-17" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
+  <p style="clear: both;">
+</section>
+
+<section id="profile">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <p>For booking contact me via Instagram or fill the survey at the bottom of this page.</p>
+  <div>
+    <a href="https://www.freecodecamp.org/fcc544e0e3c-2678-4dae-93f7-9d14f68cf526" class="fa fa-freecodecamp" id="profile-link" target="_blank">
+    <i class="fa-brands fa-free-code-camp"></i></a>
+    <a href="https://www.instagram.com/anjalecnik/" class="fa fa-instagram" id="profile-link" target="_blank"></a>
+
+  </div>
+</section>
